@@ -1,0 +1,30 @@
+.cuidadores {
+  background-color: #abbedb;
+}
+
+.cuidadores-dark {
+  background-color: #000000;
+}
+
+.cuidadores-register {
+  width: 45vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  color: #000000
+}
+
+.title-dark {
+  color: #ffffff
+}
+
+.label {
+  color: #000000
+}
+
+.label-dark {
+  color: #ffffff
+}
